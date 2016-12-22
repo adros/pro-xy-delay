@@ -1,0 +1,15 @@
+{
+  "name": "pro-xy-delay",
+  "version": "0.1.0",
+  "description": "Plugin for pro-xy. It allows to postpone request for certain time.",
+  "main": "lib/proxyDelay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/adros/pro-xy-delay.git",
+  "author": "adros@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.6"
+  }
+}
